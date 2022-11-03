@@ -1,0 +1,267 @@
+{
+	"items": [
+		{
+			"_id": "devPPSHMag_1",
+			"_tpl": "devPPSHMag_1",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 999999
+			}
+		},
+		{
+			"_id": "devround_1",
+			"_tpl": "devround_1",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 999999
+			}
+		},
+		{
+			"_id": "money",
+			"_tpl": "59faff1d86f7746c51718c9c",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 999999
+			}
+		},
+		{
+			"_id": "devPPSHPRESET_1",
+			"_tpl": "devPPSH_1",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 999999
+			}
+		},
+		{
+			"_id": "5eb2963686f7742d3f5ab0fe",
+			"_tpl": "5ea03e9400685063ec28bfa4",
+			"parentId": "devPPSHPRESET_1",
+			"slotId": "mod_stock"
+		  },
+		  {
+			"_id": "5eb2963686f7742d3f5ab0ff",
+			"_tpl": "devPPSHMag_1",
+			"parentId": "devPPSHPRESET_1",
+			"slotId": "mod_magazine"
+		  },
+		  {
+			"_id": "5eb2963686f7742d3f5ab100",
+			"_tpl": "5ea03e5009aa976f2e7a514b",
+			"parentId": "devPPSHPRESET_1",
+			"slotId": "mod_reciever"
+		  },
+		  {
+			"_id": "5eb2963686f7742d3f5ab101",
+			"_tpl": "5ea02bb600685063ec28bfa1",
+			"parentId": "devPPSHPRESET_1",
+			"slotId": "mod_barrel"
+		  },
+		  
+		  
+
+
+		  {
+			"_id": "DevHelmet",
+			"_tpl": "5a16bb52fcdbcb001a3b00dc",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 999999
+			}
+		},
+		{
+			"_id": "devMount",
+			"_tpl": "5a16b8a9fcdbcb00165aa6ca",
+			"parentId": "DevHelmet",
+			"slotId": "mod_nvg"
+		  },
+		  {
+			"_id": "PVS7",
+			"_tpl": "5c11046cd174af02a012e42b",
+			"parentId": "devMount",
+			"slotId": "mod_nvg"
+		  },
+		  {
+			"_id": "Thermal",
+			"_tpl": "5c110624d174af029e69734c",
+			"parentId": "PVS7",
+			"slotId": "mod_nvg"
+		  },
+
+
+
+
+		  {
+			"_id": "balaclava",
+			"_tpl": "devBalaclava",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 999999
+			}
+		  },
+		  {
+			"_id": "devArmBand",
+			"_tpl": "devArmBand",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 999999
+			}
+		  },
+		  {
+			"_id": "devFood",
+			"_tpl": "devFood",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 999999
+			}
+		  },
+		  {
+			"_id": "devMedkit",
+			"_tpl": "devMedkit",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 999999
+			}
+		  },
+		  {
+			"_id": "devBackpack",
+			"_tpl": "devBackpack",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 999999
+			}
+		  },
+		  {
+			"_id": "devRig",
+			"_tpl": "5648a69d4bdc2ded0b8b457b",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 999999
+			}
+		  }
+	],
+	"barter_scheme": {
+		"money": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"devRig": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"devBackpack": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"devFood": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"devArmBand": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"devMedkit": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"DevHelmet": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"devPPSHMag_1": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"devPPSHPRESET_1": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"devround_1": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		],
+		"balaclava": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5449016a4bdc2d6f028b456f"
+				}
+			]
+		]
+	},
+	"loyal_level_items": {
+		"money": 1,
+		"devround_1": 1,
+		"devPPSHMag_1":1,
+		"devPPSHPRESET_1":1,
+		"balaclava":1,
+		"DevHelmet": 1,
+		"devFood":1,
+		"devArmBand":1,
+		"devMedkit": 1,
+		"devRig":1,
+		"devBackpack": 1
+	}
+}
