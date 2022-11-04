@@ -24,7 +24,7 @@
                  "filters":[
                     {
                        "Filter":[
-                          "devround"
+                          "devround_1"
                        ]
                     }
                  ]
@@ -100,7 +100,7 @@
                     {
                        "AnimationIndex":-1,
                        "Filter":[
-                          "devPPSHMag"
+                          "devPPSHMag_1"
                        ]
                     }
                  ]
@@ -150,7 +150,7 @@
         "SingleFireRate":1000,
         "bFirerate":1400,
         "Velocity":12,
-        "defAmmo":"devround",
+        "defAmmo":"devround_1",
         "AllowOverheat":false,
         "BaseMalfunctionChance":0.01,
         "RecoilForceUp":32,
